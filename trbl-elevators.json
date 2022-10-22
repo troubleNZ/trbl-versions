@@ -1,10 +1,10 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "up-to-date": {
-        "message": "^2[%s] [SUCCESS] ^7Resource up-to-date!"
+        "message": "^2[%s] ^7 in sync with source"
     },
     "requires-update": {
         "important": true,
-        "message": "^1[%s] ^3Update Available - polyzone dependency"
+        "message": "^1[%s] ^3Update Available - new features"
     }
 }

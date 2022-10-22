@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
     "up-to-date": {
-        "message": "^2[%s] [SUCCESS] ^7Resource up-to-date!"
+        "message": "^2[%s] ^7 in sync with source"
     },
     "requires-update": {
         "important": true,
