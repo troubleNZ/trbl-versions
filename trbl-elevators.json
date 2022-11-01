@@ -1,10 +1,10 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.8.1",
     "up-to-date": {
         "message": "^2[%s] ^7 in sync with source"
     },
     "requires-update": {
         "important": true,
-        "message": "^1[%s] ^3Update Available - blips"
+        "message": "^1[%s] ^3Update Available -optional menu"
     }
 }
