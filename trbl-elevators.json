@@ -1,10 +1,10 @@
 {
-    "version": "1.0.8.1",
+    "version": "1.0.8.2",
     "up-to-date": {
         "message": "^2[%s] ^7 in sync with source"
     },
     "requires-update": {
         "important": true,
-        "message": "^1[%s] ^3Update Available -optional menu"
+        "message": "^1[%s] ^3Update Available -bug fix for altmenu"
     }
 }
