@@ -1,10 +1,10 @@
 {
-    "version": "1.0.8.2",
+    "version": "1.0.9.1",
     "up-to-date": {
         "message": "^2[%s] ^7 in sync with source"
     },
     "requires-update": {
         "important": true,
-        "message": "^1[%s] ^3Update Available -bug fix for altmenu"
+        "message": "^1[%s] ^3Update Available - truncated func woops"
     }
 }
