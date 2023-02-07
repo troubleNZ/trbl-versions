@@ -1,5 +1,5 @@
 {
-    "version": "0.1.4a",
+    "version": "0.1.5a",
     "up-to-date": {
         "message": "^2[%s] ^7 in sync with source"
     },
